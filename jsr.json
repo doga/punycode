@@ -1,0 +1,5 @@
+{
+  "name": "@arma/punycode",
+  "version": "1.0.1",
+  "exports": "./mod.mjs"
+}
