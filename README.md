@@ -27,7 +27,7 @@ Running this example is safe, it will not read or write anything to your filesys
 </details>
 
 ```javascript
-import { punycode } from 'https://esm.sh/gh/doga/punycode@1.0.0/mod.mjs';
+import { punycode } from 'https://cdn.jsdelivr.net/gh/doga/punycode@1.0.1/mod.mjs';
 
 const unicodeDnsNames = [
     'mañana.rocks', '☃-⌘.design', 'джpумлатест.bрфa', 'hello.codes',
